@@ -1,4 +1,4 @@
-**## Ransomware Simulator + Defender**
+# Ransomware Simulator + Defender
 
 A SAFE educational cybersecurity desktop application built with Python and PyQt5.
 
